@@ -1,1 +1,4 @@
 gym
+jupyter
+atari_py
+scipy
